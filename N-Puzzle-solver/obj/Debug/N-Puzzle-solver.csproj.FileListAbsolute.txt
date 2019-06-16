@@ -1,0 +1,30 @@
+c:\users\omar isco\documents\visual studio 2013\Projects\N-Puzzle-solver\N-Puzzle-solver\bin\Debug\N-Puzzle-solver.exe.config
+c:\users\omar isco\documents\visual studio 2013\Projects\N-Puzzle-solver\N-Puzzle-solver\bin\Debug\N-Puzzle-solver.exe
+c:\users\omar isco\documents\visual studio 2013\Projects\N-Puzzle-solver\N-Puzzle-solver\bin\Debug\N-Puzzle-solver.pdb
+c:\users\omar isco\documents\visual studio 2013\Projects\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N-Puzzle-solver.csprojResolveAssemblyReference.cache
+c:\users\omar isco\documents\visual studio 2013\Projects\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N_Puzzle_solver.Form1.resources
+c:\users\omar isco\documents\visual studio 2013\Projects\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N_Puzzle_solver.Properties.Resources.resources
+c:\users\omar isco\documents\visual studio 2013\Projects\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N-Puzzle-solver.csproj.GenerateResource.Cache
+c:\users\omar isco\documents\visual studio 2013\Projects\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N-Puzzle-solver.exe
+c:\users\omar isco\documents\visual studio 2013\Projects\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N-Puzzle-solver.pdb
+D:\fcis\fcis3.1\aglo\final project\N-Puzzle-solver\N-Puzzle-solver\bin\Debug\N-Puzzle-solver.exe.config
+D:\fcis\fcis3.1\aglo\final project\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N-Puzzle-solver.exe
+D:\fcis\fcis3.1\aglo\final project\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N-Puzzle-solver.pdb
+E:\materials\My Project\n_puzzle_solver_algo\final project npuzzle\N-Puzzle-solver\N-Puzzle-solver\bin\Debug\N-Puzzle-solver.exe.config
+E:\materials\My Project\n_puzzle_solver_algo\final project npuzzle\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N-Puzzle-solver.exe
+E:\materials\My Project\n_puzzle_solver_algo\final project npuzzle\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N-Puzzle-solver.pdb
+E:\materials\My Project\n_puzzle_solver_algo\final project npuzzle\N-Puzzle-solver\N-Puzzle-solver\bin\Debug\N-Puzzle-solver.exe
+E:\materials\My Project\n_puzzle_solver_algo\final project npuzzle\N-Puzzle-solver\N-Puzzle-solver\bin\Debug\N-Puzzle-solver.pdb
+E:\materials\My Project\n_puzzle_solver_algo\final project npuzzle\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N-Puzzle-solver.csprojResolveAssemblyReference.cache
+E:\materials\My Project\n_puzzle_solver_algo\final project npuzzle\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N_Puzzle_solver.Form1.resources
+E:\materials\My Project\n_puzzle_solver_algo\final project npuzzle\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N_Puzzle_solver.Properties.Resources.resources
+E:\materials\My Project\n_puzzle_solver_algo\final project npuzzle\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N-Puzzle-solver.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Projects\N-Puzzle-Solver-master\N-Puzzle-solver\N-Puzzle-solver\bin\Debug\N-Puzzle-solver.exe.config
+C:\Users\lenovo\Desktop\Projects\N-Puzzle-Solver-master\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N-Puzzle-solver.exe
+C:\Users\lenovo\Desktop\Projects\N-Puzzle-Solver-master\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N-Puzzle-solver.pdb
+C:\Users\lenovo\Desktop\Projects\N-Puzzle-Solver-master\N-Puzzle-solver\N-Puzzle-solver\bin\Debug\N-Puzzle-solver.exe
+C:\Users\lenovo\Desktop\Projects\N-Puzzle-Solver-master\N-Puzzle-solver\N-Puzzle-solver\bin\Debug\N-Puzzle-solver.pdb
+C:\Users\lenovo\Desktop\Projects\N-Puzzle-Solver-master\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N-Puzzle-solver.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Projects\N-Puzzle-Solver-master\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N_Puzzle_solver.Form1.resources
+C:\Users\lenovo\Desktop\Projects\N-Puzzle-Solver-master\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N_Puzzle_solver.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Projects\N-Puzzle-Solver-master\N-Puzzle-solver\N-Puzzle-solver\obj\Debug\N-Puzzle-solver.csproj.GenerateResource.Cache
